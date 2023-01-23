@@ -6,7 +6,7 @@ Java program that I made to review basic probability and statistics and object-o
 Here is a list of what can be calculated from each distribution:
 </p>
 
-##### *Binomial, Geometric, and Poisson Distributions*
+#### *Binomial, Geometric, and Poisson Distributions*
 <ul>
   <li> Probability P(X) </li>
     <ul>
@@ -23,7 +23,7 @@ Here is a list of what can be calculated from each distribution:
   <li> Standard Deviation </li>
 </ul>
 
-##### *Exponential Distribution*
+#### *Exponential Distribution*
 <ul>
   <li> Probability P(X) </li>
     <ul>
@@ -36,7 +36,7 @@ Here is a list of what can be calculated from each distribution:
   <li> Standard Deviation </li>
 </ul>
 
-##### *Normal Distribution*
+#### *Normal Distribution*
 <ul>
   <li> Probability P(X) </li>
     <ul>
