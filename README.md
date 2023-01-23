@@ -49,3 +49,5 @@ Here is a list of what can be calculated from each distribution:
       <li> Without sample mean </li>
     </ul>
 </ul>
+
+<p> NOTE: The code itself has comments for all the major methods and what they do </p>
